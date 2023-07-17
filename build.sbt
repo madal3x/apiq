@@ -1,4 +1,4 @@
-name := "tnt-fp-aaactors"
+name := "apiq"
 
 version := "1.0"
 
